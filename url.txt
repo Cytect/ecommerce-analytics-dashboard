@@ -1,1 +1,1 @@
-https://ecommerce-analytics-dicoding.streamlit.app/
+https://ecommerce-analytics-dashboard-faswx3crbndrbjyar5wfee.streamlit.app/
